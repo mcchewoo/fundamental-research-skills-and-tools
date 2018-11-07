@@ -1,1 +1,3 @@
 hello world, I am learning git to better track my work
+
+This is a modified text to test the commit again
